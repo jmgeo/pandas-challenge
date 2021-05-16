@@ -3,7 +3,7 @@
 For this homework, please see the included code in a Jupyter Notebook.
 
 DATA ANALYSIS:
-After conmpleting the coding portion of the exercise and analysizing the outputs, we can definitively conclude the following:
+After completing the coding portion of the exercise and analysizing the outputs, we can definitively conclude the following:
 
 Heroes of Pymoli is a game overwhelmingly played by men in their 20s.
 Analysis of available gender data indicates that over 84% of players identify as male.
