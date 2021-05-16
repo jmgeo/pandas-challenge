@@ -2,7 +2,10 @@
 
 For this homework, please see the included code in a Jupyter Notebook.
 
-DATA ANALYSIS:
+________________________
+
+DATA ANALYSIS
+
 After completing the coding portion of the exercise and analysizing the outputs, we can definitively conclude the following:
 
 Heroes of Pymoli is a game overwhelmingly played by men in their 20s.
