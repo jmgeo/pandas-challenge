@@ -17,5 +17,5 @@ Male players purchased 652 items for a total of $1967.64 in sales.
 
 However, players who identify as female or other/non-disclosed spend more per item and more on average than male players.
 Females spend ~18 cents more per item on average than their male counterparts, and ~40 cents more per purchase on average.
-Other/Non-Disclosed spend ~33 cente more pre purchase on average than their male counterparts, and ~50 cents more per purchase on average.
+Other/Non-Disclosed spend ~33 cents more pre purchase on average than their male counterparts, and ~50 cents more per purchase on average.
 (Note: I did have trouble generating the Avg Total Purchase Per Person result in code, and am relying on the results from the example for this conclusion).
